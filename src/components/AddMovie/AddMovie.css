@@ -1,0 +1,9 @@
+.add {
+  display: flex;
+  justify-content: center;
+}
+.add Button {
+  background-color: rgb(51, 163, 228);
+  color: antiquewhite;
+  margin: 2%;
+}
